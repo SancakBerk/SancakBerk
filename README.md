@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [React Projects](https://github.com/SancakBerk/React)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js** **MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SancakBerk](https://github.com/SancakBerk)
 
