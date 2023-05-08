@@ -1,4 +1,4 @@
-
+[![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/125/969/desktop-wallpaper-web-development-posted-by-sarah-anderson-full-stack.jpg)]
 
 <h1 align="center">Hi 👋, I'm Berk Sancak</h1>
 <h3 align="center">Hi I am a computer engineering student and I'm intrested in web development. I have strong knowledge of HTML, Css and JavaScript also I code my projects with "React" library and use "redux-toolkit", I start to learn node.js for my website datas.</h3>
@@ -36,7 +36,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sancakberk&" alt="sancakberk" /></p>
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sancakberk&" alt="sancakberk" /></p>
 
 
